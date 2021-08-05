@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java Web Development Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![img](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
+![img](https://github.com/malicaki/kodluyoruzilkrepo/blob/main/figures/ilkrepo.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.
